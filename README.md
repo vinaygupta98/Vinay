@@ -21,5 +21,5 @@
 -  I’m currently working on MongoDb, Node.js, Express.js, React, JavaScript etc.
 -  I’m currently learning Full Stack Development .
 -  How to reach me: vinaygupta7516@gmail.com || [Portfolio](https://vinaygupta.netlify.app/)
--  I have worked on HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Python, etc.
+-  I have worked on HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, React Native, etc.
 -  Ask me about anything! I am happy to help and guide you.
